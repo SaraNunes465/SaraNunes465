@@ -41,7 +41,7 @@ Auxilar adiministrativo.
 * JavaScript ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 * ReactJs ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 ### Back-end
- * Java 8. ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java8&logoColor=white&color=6aa6f8)
+ * Java 8. ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
   * Spring Boot ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=springboot&logoColor=white&color=6aa6f8)
 
 ## Projetos Usando Spring Boot com ReactJs
