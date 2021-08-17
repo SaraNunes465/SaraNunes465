@@ -1,5 +1,5 @@
 # Sara Nunes De Oliveira :computer:
-Desenvolvedor Web - Front-end e Back-end.<br>
+Desenvolvedor - Front-end e Back-end.<br>
 :house:   Uberlândia/MG <br>
 :iphone:   (34) 99916 - 4091 <br>
 :envelope:  nunessara465@gmail.com
