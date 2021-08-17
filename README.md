@@ -4,8 +4,8 @@ Desenvolvedor - Front-end e Back-end.<br>
 :iphone:   (34) 99916 - 4091 <br>
 :envelope:  nunessara465@gmail.com
 
-#### Quem sou eu ?
-Meu nome é Sara Nunes, sou Desenvolvedor Web apaixonado por prender fullStack Java e React, interesses em Javascript e Bootstrap. Organizada, com muita enerngia para aprender e descobrir novas formas de criar um novo projeto.
+## Quem sou eu ?
+Meu nome é Sara Nunes, sou Desenvolvedor Web apaixonado por prender fullStack Java e React, interesses em Javascript e Bootstrap. Organizada, com muita energia para aprender e descobrir novas formas de criar um novo projeto.
 
 ## Formação
 Escola Superior de Administração, Marketing e Comunicação, Administração do 1 ao 5 périodo - Trancado<br>
@@ -30,7 +30,7 @@ Auxilar adiministrativo.
 
 ### Sistemas Operacionais
 * Linux ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-* Windows ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+* Windows ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
 
 ### Front-end
 * HTML.
@@ -41,8 +41,8 @@ Auxilar adiministrativo.
 * JavaScript ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 * ReactJs ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 ### Back-end
- * Java. ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-  * Spring Boot ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+ * Java. ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
+  * Spring Boot ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=springboot&logoColor=white&color=6aa6f8)
 
 ## Projetos Usando Spring Boot com ReactJs
 
