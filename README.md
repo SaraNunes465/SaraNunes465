@@ -5,12 +5,12 @@ Desenvolvedor - Front-end e Back-end.<br>
 :envelope:  nunessara465@gmail.com
 
 ## Quem sou eu ?
-Meu nome é Sara Nunes, sou Desenvolvedor Web apaixonado por prender fullStack Java e React, interesses em Javascript e Bootstrap. Organizada, com muita energia para aprender e descobrir novas formas de criar um novo projeto.
+Meu nome é Sara Nunes, sou Desenvolvedora apaixonada por aprender, sou fullStack Java,React,Javascript e Spring Boot. Organizada, com muita energia em aprender e descobrir novas formas de criar novos projetos.
 
 ## Formação
-Escola Superior de Administração, Marketing e Comunicação, Administração do 1 ao 5 périodo - Trancado<br>
+Escola Superior de Administração, Marketing e Comunicação, Administração do 1° ao 5° périodo - Trancado<br>
 
-Faculdade Pitagoras, Odontologia 2 périodo.
+Faculdade Pitágoras, Odontologia 2° périodo.
 
 ## Experência Profissional
 * (2021) <br>
@@ -21,7 +21,7 @@ Auxilar adiministrativo.
   * Verificação da entrada e saída de correspondências.
   * Auxílio aos assistentes.
   * Analistas e supervisores nas atividades propostas
-  * ...
+  
 ## Conhecimentos :books:
 
 ### Gerais
@@ -52,7 +52,7 @@ Auxilar adiministrativo.
 
 ## Cursos Andamentos
 
-* Curso ReactJs do basico ao avancado (Udemy / [Cursando](https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/))
+* Curso ReactJs do básico ao avançado (Udemy / [Cursando](https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/))
 * Curso Web (Udemy / [Cursando](https://www.udemy.com/course/curso-web/))
 * Curso Spring boot ionic (Udemy / [Cursando](https://www.udemy.com/course/spring-boot-ionic/))
 
